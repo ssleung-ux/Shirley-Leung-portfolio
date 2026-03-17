@@ -7,31 +7,24 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - Web page URL: https://ssleung-ux.github.io/Shirley-Leung-portfolio/
 - This repository: https://github.com/ssleung-ux/Shirley-Leung-portfolio
 
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
-
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+I am a Master of Information Systems Management (MISM) student at Carnegie Mellon University, bringing a background in IT and project management to the intersection of technology and data. Throughout my career, I have worked closely with project-based KPIs — tracking, analyzing, and reporting performance metrics to drive informed decision-making. At CMU, I am building on that foundation by expanding my technical expertise and learning how to transform the kind of data I have always worked with into compelling, well-designed visualizations that tell a clear story.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+From this course, I am looking to sharpen my ability to communicate data with clarity and impact:
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. **Color theory in data visualization** — understanding how color choices guide attention and shape interpretation
+2. **Human behavior when reading visualizations** — learning how audiences naturally process and respond to visual information
+3. **Creative approaches to data storytelling** — discovering innovative ways to present data that go beyond charts and convey a compelling narrative
 
 # Portfolio
+## Project 1
+## Project 2
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
@@ -43,47 +36,6 @@ Here it might be helpful to include a high-level description of your final proje
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
 
----
-## Other stuff you can do (you can remove this section - it's just for your reference.)
-
-### Changing text
-
-You can change text, like this: 
-
-**Here's some bold** text.  Here's some *italic* text. Here's some ~~strikethrough~~ text. 
-
-### Creating tables
-
-You can build tables like this: 
-
-| Name         | Type of pet | Favority activity 1 | FA 2   | FA 3            | FA 4                                |
-|--------------|-------------|---------------------|--------|-----------------|-------------------------------------|
-| Eli          | cat         | Sleeping            | Eating | Being pet       | Plotting to overthow dog empire     |
-| Howard       | dog         | You                 | You    | You             | Eating                              |
-| Frankenstein | fish        | Swimming            | Eating | Blowing bubbles | Forgetting                          |
-
-An easy-to-use template generator tool [can be found here](https://www.tablesgenerator.com/markdown_tables)
-
-You can use different headings, like this: 
-
-# Here's a large title (H1)
-## Here's a subtitle (H2)
-### ...and so on (H3)
-You get the idea - just don't forget the space between the # and your title.  `#Title` won't work, but `# Title` will. 
-
-### Adding images
-
-Here's an example of how to add an image to my portfolio.  
-
-![funny dog picture](funny-dog-unsplash.jpg)
-> Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-
-Alternately, you can set the size of the image using just a bit of HTML: 
-
-<img src="funny-dog-unsplash.jpg" width="200"/>
-
-Remember that you'll need to upload the image into your repository, or include a link to the image somewhere else.  
 
 ### Setting up a separate page
 
