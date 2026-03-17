@@ -1,11 +1,8 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
+# Useful links
 - Web page URL: https://ssleung-ux.github.io/Shirley-Leung-portfolio/
-- This repository: https://github.com/ssleung-ux/Shirley-Leung-portfolio
+- Repository: https://github.com/ssleung-ux/Shirley-Leung-portfolio
 
 # About me
 I am a Master of Information Systems Management (MISM) student at Carnegie Mellon University, bringing a background in IT and project management to the intersection of technology and data. Throughout my career, I have worked closely with project-based KPIs — tracking, analyzing, and reporting performance metrics to drive informed decision-making. At CMU, I am building on that foundation by expanding my technical expertise and learning how to transform the kind of data I have always worked with into compelling, well-designed visualizations that tell a clear story.
