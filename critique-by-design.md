@@ -1,6 +1,6 @@
 | [home page](https://ssleung-ux.github.io/Shirley-Leung-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
+# Critique and redesign
 Text here...
 
 _For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
@@ -9,10 +9,18 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+Source: [Click here](https://data.world/makeovermonday/2023w4)
+Source article: [National Highway Traffic Safety Administration](https://datahub.transportation.gov/Automobiles/NHTSA-Recalls-by-Manufacturer/mu99-t4jn)
+
+I selected this visualization because I personally have an interest in cars, which immediately caught my attention when I saw the title regarding recall.
+
+After examining the chart more closely, I realized that the visualization does not communicate the information very intuitively. Although the pie chart uses many colors and includes data labels, it is difficult for the audience to quickly understand what the chart is showing without hovering over the tooltip or carefully examining the legend.
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+I noticed an issue is that the pie chart includes many categories, which makes it difficult to match each slice to the corresponding manufacturer.
+The legend is long and requires viewers to constantly look back and forth between the chart and the labels.
+
+In addition, the dataset includes not only car manufacturers but also companies related to products such as child seats and tires, which may not be immediately clear to the audience. Overall, the large number of categories and colors makes the visualization harder to interpret at a glance.
 
 ## Step three: Sketch a solution
 
