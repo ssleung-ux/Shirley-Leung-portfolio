@@ -16,6 +16,9 @@ I selected this visualization because I personally have an interest in cars, whi
 
 After examining the chart more closely, I realized that the visualization does not communicate the information very intuitively. Although the pie chart uses many colors and includes data labels, it is difficult for the audience to quickly understand what the chart is showing without hovering over the tooltip or carefully examining the legend.
 
+<img width="1568" height="740" alt="image" src="https://github.com/user-attachments/assets/0ae12de3-523e-4c21-9498-bfdfeb9f1e23" />
+
+
 ## Step two: the critique
 I noticed an issue is that the pie chart includes many categories, which makes it difficult to match each slice to the corresponding manufacturer.
 The legend is long and requires viewers to constantly look back and forth between the chart and the labels.
