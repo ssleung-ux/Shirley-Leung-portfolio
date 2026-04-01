@@ -9,7 +9,7 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ## Step one: the visualization
 
-Source: [Click here](https://data.world/makeovermonday/2023w4)
+Source: [Click here](https://data.world/makeovermonday/2023w4)  
 Source article: [National Highway Traffic Safety Administration](https://datahub.transportation.gov/Automobiles/NHTSA-Recalls-by-Manufacturer/mu99-t4jn)
 
 I selected this visualization because I personally have an interest in cars, which immediately caught my attention when I saw the title regarding recall.
@@ -20,10 +20,16 @@ After examining the chart more closely, I realized that the visualization does n
 
 
 ## Step two: the critique
-I noticed an issue is that the pie chart includes many categories, which makes it difficult to match each slice to the corresponding manufacturer.
-The legend is long and requires viewers to constantly look back and forth between the chart and the labels.
+One issue with the visualization is that the pie chart includes too many categories, which makes it difficult to match each slice to the corresponding manufacturer. The legend is long and requires viewers to constantly look back and forth between the chart and the labels. This makes the chart harder to read and slows down the viewer’s ability to quickly understand the information being presented.
 
-In addition, the dataset includes not only car manufacturers but also companies related to products such as child seats and tires, which may not be immediately clear to the audience. Overall, the large number of categories and colors makes the visualization harder to interpret at a glance.
+Another concern is that the title does not indicate the time period covered by the dataset. Without knowing the duration, it is difficult for viewers to understand the context of the recall counts shown in the chart.
+
+In addition, the title uses the abbreviation “NHTSA,” which may not be familiar to everyone in the general public. Writing out the full name, National Highway Traffic Safety Administration, would make the visualization clearer for a broader audience.
+
+The dataset also includes not only car manufacturers but companies related to products such as child seats and tires. This may not be immediately obvious to viewers who might assume the chart only refers to automobile manufacturers.
+
+Overall, the large number of categories and colors makes the visualization difficult to interpret at a glance and reduces its effectiveness in communicating the main takeaway.
+
 
 ## Step three: Sketch a solution
 
