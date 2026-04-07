@@ -22,7 +22,7 @@ Text here...
 # The Data
 The primary source for premium data is the NAIC 2023 Auto Insurance Database Average Premium Supplement, published June 2025. This report provides state-level average expenditure and combined average premium per insured vehicle for 2019–2023, broken down by liability, collision, and comprehensive coverage.  
 
-For the risk side, I will use state-level fatal crash rates published by the Insurance Institute for Highway Safety (IIHS), expressed as deaths per 100 million vehicle miles traveled. 
+For the risk side, I will use state-level fatal crash rates published by the Insurance Institute for Highway Safety (IIHS), expressed as deaths per 100 million vehicle miles traveled. This normalized metric controls for differences in population in each state and driving volume, making this the appropriate way to analyze risk across states.
 
 | Name | URL | Description |
 |------|-----|-------------|
