@@ -12,6 +12,8 @@ It also explores how factors like state regulation and litigation patterns may d
 
 **One sentence summary:** Millions of American drivers pay insurance premiums influenced more by state legal and regulatory systems than by actual driving risk
 
+**Story arc:**
+
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
@@ -31,9 +33,7 @@ Text here...
 |      |     |             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+This project will be built using Shorthand as the primary storytelling platform, with all data visualizations created in Tableau Public. Shorthand's scroll-driven format is well-suited to the narrative arc structure. Each section of the story maps naturally to a Shorthand scroll section, with Tableau visualizations embedded inline.
 
 ## References
 _List any references you used here._
