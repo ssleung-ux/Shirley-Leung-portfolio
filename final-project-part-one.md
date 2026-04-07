@@ -16,9 +16,14 @@ It also explores how factors like state regulation and litigation patterns may d
 
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+**Average auto insurance premium price by state**
+<img width="1183" height="1075" alt="image" src="https://github.com/user-attachments/assets/138c0323-8faf-47ce-9454-67aa8dc63d94" />  
 
-Text here...
+**Scatter plot - Relationship between premium vs. Fatality rate by country**
+<img width="1326" height="1460" alt="image" src="https://github.com/user-attachments/assets/a2a610a1-34e5-4b15-9fcb-b4fe5f59e9b2" />
+
+
+
 
 # The Data
 The primary source for premium data is the NAIC 2023 Auto Insurance Database Average Premium Supplement, published June 2025. This report provides state-level average expenditure and combined average premium per insured vehicle for 2019–2023, broken down by liability, collision, and comprehensive coverage.  
