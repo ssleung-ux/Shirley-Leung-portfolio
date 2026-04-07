@@ -1,16 +1,16 @@
 | [home page](https://ssleung-ux.github.io/Shirley-Leung-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+Auto insurance premiums vary widely across U.S. states, but higher costs don’t always align with greater driving risk.  
 
+This project uses data visualization to examine the gap between what drivers pay and key risk factors such as fatal crash and uninsured motorist rates, highlighting states that stand out as outliers.  
+
+It also explores how factors like state regulation and litigation patterns may drive premiums higher than road risk alone would justify.
+
+## Project Structure 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
-Text here...
+**One sentence summary:** Millions of American drivers pay insurance premiums influenced more by state legal and regulatory systems than by actual driving risk
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
@@ -20,7 +20,7 @@ Text here...
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+- [IIHS State-by-State Fatality Statistics](https://www.iihs.org/research-areas/fatality-statistics/detail/state-by-state)
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
