@@ -33,8 +33,5 @@ For the risk side, I will use state-level fatal crash rates published by the Ins
 # Method and medium
 This project will be built using Shorthand as the primary storytelling platform, with all data visualizations created in Tableau Public. Shorthand's scroll-driven format is well-suited to the narrative arc structure. Each section of the story maps naturally to a Shorthand scroll section, with Tableau visualizations embedded inline.
 
-## References
-_List any references you used here._
-
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+Claude (Sonnet 4.6) is used to brainstorm the project topic, identify appropriate public data sources, and draft initial text for the outline and sections. All final content was reviewed and edited by me.
