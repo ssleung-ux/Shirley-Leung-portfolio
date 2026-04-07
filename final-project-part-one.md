@@ -8,7 +8,6 @@ This project uses data visualization to examine the gap between what drivers pay
 It also explores how factors like state regulation and litigation patterns may drive premiums higher than road risk alone would justify.
 
 ## Project Structure 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
 **One sentence summary:** Millions of American drivers pay insurance premiums influenced more by state legal and regulatory systems than by actual driving risk
 
@@ -32,6 +31,9 @@ For the risk side, I will use state-level fatal crash rates published by the Ins
 
 # Method and medium
 This project will be built using Shorthand as the primary storytelling platform, with all data visualizations created in Tableau Public. Shorthand's scroll-driven format is well-suited to the narrative arc structure. Each section of the story maps naturally to a Shorthand scroll section, with Tableau visualizations embedded inline.
+
+# Call to actions
+This project aims to inform drivers and policymakers about structural inefficiencies in state auto insurance markets. By highlighting the gap between premiums and underlying risk, it encourages evaluation of whether current rate regulation frameworks are functioning as intended. It also underscores the need for potential reforms in states where pricing remains persistently misaligned.
 
 ## AI acknowledgements
 Claude (Sonnet 4.6) is used to brainstorm the project topic, identify appropriate public data sources, and draft initial text for the outline and sections. All final content was reviewed and edited by me.
