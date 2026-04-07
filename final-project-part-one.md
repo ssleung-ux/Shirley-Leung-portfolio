@@ -12,6 +12,8 @@ It also explores how factors like state regulation and litigation patterns may d
 **One sentence summary:** Millions of American drivers pay insurance premiums influenced more by state legal and regulatory systems than by actual driving risk
 
 **Story arc:**
+<img width="2200" height="1577" alt="image" src="https://github.com/user-attachments/assets/66cc9897-15cd-486a-852e-20bb46128bed" />
+
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
