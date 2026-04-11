@@ -34,7 +34,8 @@ For the risk side, I will use state-level fatal crash rates published by the Ins
 |------|-----|-------------|
 |IIHS State-by-State Fatality Statistics 2023|[Link](https://www.iihs.org/research-areas/fatality-statistics/detail/state-by-state)|The Insurance Institute for Highway Safety publishes state-level fatal crash rates expressed as deaths per 100 million vehicle miles traveled (VMT). This normalized metric is an appropriate measure of road risk for cross-state comparisons, as it controls for differences in state size and total driving volume.  This is the primary risk variable that will be plotted against premium data in the scatter plot.|
 |NAIC 2023 Auto Insurance Database Average Premium Supplement|[Link](https://content.naic.org/sites/default/files/aut-db_1.pdf)|State-level average auto insurance expenditure and combined average premium, 2019–2023|
-|NHTSA FARS National CSV|[Link](https://www.nhtsa.gov/crash-data-systems/fatality-analysis-reporting-system)|Census of all U.S. fatal crashes by state, used as verification source, as IIHS's source is from here|
+|NHTSA FARS National CSV|[Link](https://www.nhtsa.gov/crash-data-systems/fatality-analysis-reporting-system)|Census of all U.S. fatal crashes by state, used as verification source, as IIHS's source is from here|  
+|U.S census |[link](https://www.census.gov/data/datasets/time-series/demo/popest/2020s-counties-total.html)|  |
 
 # Method and medium
 This project will be built using Shorthand as the primary storytelling platform, with all data visualizations created in Tableau Public. Shorthand's scroll-driven format is well-suited to the narrative arc structure. Each section of the story maps naturally to a Shorthand scroll section, with Tableau visualizations embedded inline.
