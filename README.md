@@ -15,8 +15,10 @@ From this course, I am looking to sharpen my ability to communicate data with cl
 3. **Creative approaches to data storytelling** — discovering innovative ways to present data that go beyond charts and convey a compelling narrative
 
 # Portfolio
-## Project 1
-## Project 2
+## Project 1  
+[final project I](final-project-part-one.md)
+## Project 2  
+[final project II](final-project-part-two.md)
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
