@@ -1,40 +1,35 @@
 | [home page](https://ssleung-ux.github.io/Shirley-Leung-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
-
-Text here!
+# Wireframes / storyboards  
+The draft Shorthand story starts from getting a resemblance from the audience, where mentioning whether they have ever thought about why auto insurance premiums increase or decrease when relocating, even when there isn't much change in coverage. I briefly talks about how insurance work, basically managing risk. This project is about whether auto insurance premiums have an impact on the risk in the area.   
+Then walks the reader through four acts:  
+- Introduces fatality rate data (FARS) through a map
+- Showing top states estimated expense for insurance providers to cover their claims (NAIC), bar chart
+- Average annual premiums (NAIC) per state (map)
+- scatter plot of premium vs. fatality rate, see if there is any relationship
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+The primary audience is the general public, specifically people considering relocating to a new state who want to understand whether the insurance costs they'll face are proportionate to actual road risk in that state.  
+A secondary audience is policymakers and insurance regulators who may use this analysis to evaluate whether state-level premium structures reflect actuarially fair risk assessment.  
 
-Text here!
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Assess clarity of the narrative| Does the opening attract the reader to continue exploring the story.                |
+| whether the audience is well-defined |Who do you think about the intended audience |
+| Make this data as reliable as possible  | was the data good enough to exlain as this invove many uncontrollable variables? |
 
-
-Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 (PPM) | Interview 2 (PPM) | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
+| Does the opening feel relevant to readers? | Yes, nice flow            | agreed | good intro |
+| Who do you think this story is for? | general public but might be a bit too broad | similar, suggested to maybe in a smaller  |             |
 |                         |                                |             |             |
 
 
@@ -55,8 +50,6 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
 
 Text here!
 
@@ -64,5 +57,5 @@ Text here!
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+Claude was used to help structure and draft the user research protocol, interview script, and Part II writeup template based on notes from interviews and project context provided by the author. All analytical judgments, interview content, and project direction reflect the author's own work.
 
