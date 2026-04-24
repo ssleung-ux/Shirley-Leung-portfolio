@@ -1,36 +1,54 @@
 | [home page](https://ssleung-ux.github.io/Shirley-Leung-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
-
-Text here!
+[Click here for the Shorthand story](https://carnegiemellon.shorthandstories.com/relationship-between-risk-and-auto-insurance-premium/index.html)
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+Since completing Part II, the story shifted in a meaningful way. 
+Originally, the analysis leaned on fatality rates (FARS) as the 
+primary risk measure. Through user feedback and deeper exploration 
+of the NAIC data, the focus moved to a more actuarially grounded 
+risk factor — combining accident frequency and claim severity from 
+the NAIC Auto Insurance Database. This change made the relationship 
+between risk and premium far clearer and more defensible.
 
-Text here!
+The fatality rate map was kept as a supplemental visual to show 
+readers why fatalities alone don't explain premium differences, as 
+serving as a deliberate "plot twist" before introducing the 
+frequency × severity risk factor.
+
+A plain-language annotation explaining how Risk Factor is calculated 
+was added directly to the chart.
+
+Changed the cover page and visual used, and break down information with zoom in, as I think this helps the audience to not to be overwhelmed by the information being displayed. 
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+The primary audience is people considering relocating across state 
+lines who want to understand whether the insurance costs they'll 
+face reflect actual road risk.  
+A secondary audience is 
+policymakers and regulators interested in whether state premium 
+structures align with actuarial risk.  
 
-Text here!
-
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+References are cited in full on the Shorthand story page. 
+No additional sources were used in this writeup.
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
+Claude AI - Sonnet 4.6, was used to assist with drafting the user 
+research protocol, GitHub writeup wording, 
+chart annotation language, and citation formatting.  
+All analytical decisions, data sourcing, visualization design, and narrative 
+direction reflects the author's own work.
 
-Text here!
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
+The biggest challenge was resisting the urge to explain too much. 
+Early drafts tried to account for every variable that drives 
+premiums — litigation environments, fraud rates, state laws — 
+which diluted the core finding. Cutting down to frequency × 
+severity as the single risk metric made the story significantly 
+stronger.
 
 
